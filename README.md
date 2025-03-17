@@ -7,18 +7,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m fascinated by the intersection of AI and ethics, exploring how technology can make a positive social impact
 
-Here’s a refined GitHub profile README and LinkedIn summary that showcase your expertise, experience, and projects effectively.
-
-⸻
-
-GitHub Profile README (For README.md in your username repository)
-
-# 👋 Hi, I'm Anteneh Tessema! 
-
-🚀 **AI Engineer | Full Stack Developer | ML & Deep Learning Enthusiast**  
-🔹 Building **AI-powered applications** and **multi-agent systems**  
-🔹 Exploring **cryptocurrency, quantum security, and IoT**  
-🔹 Passionate about **AI-driven cybersecurity** & **personal safety solutions**  
+AI Engineer | Full Stack Developer | ML & Deep Learning Enthusiast 
+🔹 Building AI-powered applications and multi-agent systems 
+🔹 Exploring cryptocurrency, quantum security, and IoT 
+🔹 Passionate about AI-driven cybersecurity & personal safety solutions**  
 
 ## 🏗️ What I Do  
 - **Full Stack Development**: Crafting scalable and efficient web & mobile apps.  
