@@ -1,87 +1,103 @@
-# 👋 Hi, I'm Anteneh Tsegaye Tessema
+Anteneh Tsegaye Tessema
 
-- 👀 I’m deeply interested in **Deep Learning, Machine Learning, and Artificial Intelligence**
-- 🌱 I’m currently learning **more about AI engineering, model optimization, and real-world applications of ML and DL**
-- 💞️ I’m looking to collaborate on **projects related to AI, ML/DL models, and innovative applications for practical solutions**
-- 📫 How to reach me:  | [Email](mailto:antenehcodding@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m fascinated by the intersection of AI and ethics, exploring how technology can make a positive social impact
+AI Engineer | Full Stack Developer | ML & Deep Learning Enthusiast
 
-AI Engineer | Full Stack Developer | ML & Deep Learning Enthusiast 
-🔹 Building AI-powered applications and multi-agent systems 
-🔹 Exploring cryptocurrency, quantum security, and IoT 
-🔹 Passionate about AI-driven cybersecurity & personal safety solutions**  
+I am deeply interested in Deep Learning, Machine Learning, and Artificial Intelligence and am continuously advancing my skills in AI engineering, model optimization, and real-world applications of ML and DL. I'm passionate about collaborating on projects related to innovative AI and ML/DL applications that address practical challenges.
 
-## 🏗️ What I Do  
-- **Full Stack Development**: Crafting scalable and efficient web & mobile apps.  
-- **AI & ML Engineering**: Developing AI-based business solutions for real-world applications.  
-- **Multi-Agent Systems**: Automating complex workflows using **CrewAI, LLaMA3, LangChain**.  
-- **IoT & Edge AI**: Integrating AI with **Jetson Orin Nano & Raspberry Pi** for smart applications.  
-- **Quantum-Resistant Crypto**: Designing secure blockchain solutions for the future.  
+Pronouns: He/Him
 
-## 🌟 Notable Projects  
-💡 **Multi-Agent AI Security Scanner** – AI-driven security audits for web & mobile apps.  
-💡 **AI-Powered Personal Safety System** – Real-time crime analysis and emergency alerts.  
-💡 **Qubit Coin** – A **quantum-resistant** cryptocurrency with a decentralized governance model.  
-💡 **Stock Market Visualization App** – Dynamic stock bubbles interface with real-time data.  
-💡 **Remitly Clone** – A global money transfer app using **React, Swift, and Kotlin**.  
+Contact: antenehcodding@gmail.com
 
-## 🔧 Tech Stack  
-🛠 **Languages**: Python, Java, Kotlin, Swift, JavaScript (React.js, Next.js, Node.js)  
-📦 **AI & ML**: PyTorch, TensorFlow, LLaMA3, CrewAI, LangChain, AutoGen  
-📡 **IoT & Edge AI**: Jetson Orin Nano, Raspberry Pi, NVIDIA Nano  
-🔗 **Blockchain & Crypto**: Solidity, Ethereum, Hedera Hashgraph  
+Interests:
 
-## 🌍 Connect With Me  
-📧 **Email**: [Your Email]  
-🔗 **LinkedIn**: [Your LinkedIn Profile]  
-📝 **Medium**: [Your Articles on AI & Startups]  
-💻 **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)  
+AI-powered applications and multi-agent systems
 
-🚀 **Always exploring new AI possibilities! Let’s innovate together.**
+Cryptocurrency, quantum security, and IoT
 
+AI-driven cybersecurity & personal safety solutions
 
+Intersection of AI and ethics to promote positive social impacts
 
-⸻
+Professional Expertise
+
+Full Stack Development
+
+Crafting scalable and efficient web & mobile applications.
+
+AI & ML Engineering
+
+Developing practical AI-driven business solutions.
+
+Multi-Agent Systems
+
+Automating complex workflows using CrewAI, LLaMA3, LangChain.
+
+IoT & Edge AI
+
+Integrating advanced AI with devices such as Jetson Orin Nano & Raspberry Pi for smart, edge-driven applications.
+
+Quantum-Resistant Cryptocurrency
+
+Designing secure, future-oriented blockchain solutions.
+
+Notable Projects
+
+Multi-Agent AI Security Scanner: Automated security audits for web and mobile applications.
+
+AI-Powered Personal Safety System: Real-time analysis of crime data with emergency alerts.
+
+Qubit Coin: Quantum-resistant cryptocurrency featuring decentralized governance.
+
+Stock Market Visualization App: Interactive, real-time stock data visualization.
+
+Remitly Clone: Cross-platform global money transfer app utilizing React, Swift, and Kotlin.
+
+Technical Skills
+
+Languages: Python, Java, Kotlin, Swift, JavaScript (React.js, Next.js, Node.js)AI & ML Frameworks: PyTorch, TensorFlow, LLaMA3, CrewAI, LangChain, AutoGenIoT & Edge AI: Jetson Orin Nano, Raspberry Pi, NVIDIA NanoBlockchain & Crypto: Solidity, Ethereum, Hedera Hashgraph
+
+Connect With Me
+
+Email: antenehcodding@gmail.com
+
+LinkedIn: Anteneh Tessema
+
+Medium: My Articles on AI & Startups
+
+GitHub: github.com/YourUsername
+
+I am always eager to explore new opportunities and collaborations in the field of AI. Let's innovate together.
 
 LinkedIn Summary
 
-🚀 Full Stack Developer | AI Researcher | Blockchain Enthusiast
+Full Stack Developer | AI Researcher | Blockchain Enthusiast
 
-I am a Full Stack Developer and AI Engineer passionate about AI-driven business solutions, cybersecurity, and multi-agent automation. My expertise spans machine learning, web and mobile development, IoT, and blockchain.
+I am passionate about AI-driven business solutions, cybersecurity, and multi-agent automation. My professional journey spans machine learning, web and mobile development, IoT, and blockchain.
 
-🔹 What I Do
-	•	AI & ML Development: Building intelligent systems with CrewAI, LLaMA3, and LangChain.
-	•	Full Stack Engineering: Developing scalable applications using React.js, Swift, Kotlin, and Node.js.
-	•	AI Security & Cyber Threat Analysis: Designing AI-powered multi-agent security scanners.
-	•	Cryptocurrency & Blockchain: Creating quantum-resistant cryptographic solutions like Qubit Coin.
-	•	IoT & Edge AI: Integrating AI with Jetson Orin Nano & Raspberry Pi for smart devices.
+Core Competencies:
 
-🔹 Notable Projects
+AI & ML Development: Creating intelligent systems leveraging CrewAI, LLaMA3, and LangChain.
 
-✔️ AI Security Scanner (SaaS) – AI-powered security audits for mobile & web applications.
-✔️ Personal Safety Assistant – AI-driven real-time crime detection & emergency alerts.
-✔️  A quantum-secure cryptocurrency designed for the AI era.
-✔️ Stock Bubbles App – Real-time stock data visualization for investors.
-✔️  A global money transfer app using React, Swift, and Kotlin.
+Full Stack Engineering: Scalable solutions built with Java, Python, React.js, Swift, Kotlin, and Node.js.
 
-🔹 Tech Stack
+Cybersecurity: AI-powered threat analysis and automated security scanning.
 
-🛠 Languages: Python, Java, Kotlin, Swift, JavaScript (React.js, Next.js, Node.js)
-🧠 AI/ML Frameworks: PyTorch, TensorFlow, LangChain, CrewAI, AutoGen
-📡 IoT & Edge AI: NVIDIA Jetson Orin Nano, Raspberry Pi
-🔗 Blockchain: Solidity, Hedera Hashgraph, Ethereum
+Blockchain Innovation: Quantum-resistant cryptographic solutions and decentralized systems.
 
-I am always looking for opportunities to collaborate on AI, blockchain, and cybersecurity projects.
-Let’s connect and build something innovative together! 
+IoT & Edge Computing: Smart applications using Jetson Orin Nano & Raspberry Pi.
 
-📧 Email: antenehcodding@gmail.com | 🔗 LinkedIn: https://www.linkedin.com/in/anteneh-tessema/ | 📝 Medium: https://medium.com/@antenehcodding
+Project Highlights:
 
-⸻
+AI Security Scanner (SaaS): Robust AI-driven security solutions.
 
+Personal Safety Assistant: AI-supported real-time crime alerts.
 
+Quantum-secure Cryptocurrency: Blockchain for the quantum computing era.
 
+Stock Visualization App: Real-time interactive financial data interface.
 
-<!---
+Global Transfer App: Secure, efficient international money transfers.
 
---->
+I actively seek collaborative opportunities in AI, blockchain, and cybersecurity to build innovative solutions. Let's connect and drive technological advancement together.
+
+Contact: antenehcodding@gmail.com | LinkedIn | Medium
